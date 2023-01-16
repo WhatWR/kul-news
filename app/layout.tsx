@@ -9,6 +9,7 @@ export default function RootLayout({
 }) {
   return (
     <html>
+      <head />
       <Providers>
       <body className="bg-gray-100 dark:bg-zinc-900 transition-all duration-700">
         <Header />
