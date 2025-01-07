@@ -1,5 +1,5 @@
 # Kul News
-
+a
 ### Installation
 
 1. Run locally by using Docker
